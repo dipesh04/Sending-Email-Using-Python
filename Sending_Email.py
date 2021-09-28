@@ -26,7 +26,7 @@ def send_email():
     server.login(sender_address, password)
 
     # Write here all the receivers email address like
-    recipients = ['xyz@gmail.com', 'abc@gmail.com']
+    recipients = ['xyz@gmail.com', 'abc@gmail.com',...]
 
 
     # Draft my message body
